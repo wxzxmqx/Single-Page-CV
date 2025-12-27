@@ -6,7 +6,7 @@ A semantically structured, SEO-optimized single-page digital CV built as part of
 
 - `index.html` - The core structure and content.
 - `styles.css` - (Future) Styling for the CV layout.
-- `favicon.ico` - Site icon for browser tabs.
+- `briefcase.svg` - Site icon for browser tabs.
 
 # Tech Stack
 - HTML5
