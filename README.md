@@ -8,9 +8,12 @@ A semantically structured, SEO-optimized single-page digital CV built as part of
 - `styles.css` - (Future) Styling for the CV layout.
 - `briefcase.svg` - Site icon for browser tabs.
 
-# Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
+
+## Website: 
+https://wxzxmqx.github.io/Single-Page-CV/
 
 ## Usage
 
