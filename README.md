@@ -26,3 +26,5 @@ To view the CV locally:
 **Serhii Yatsunenko**  
 Junior Frontend Developer | Cologne, Germany  
 [yatsunenko.serhii@hneu.net](mailto:yatsunenko.serhii@hneu.net)
+
+The project was made for [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
